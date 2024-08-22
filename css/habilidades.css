@@ -1,0 +1,21 @@
+
+.habilidad{
+    background-color: blueviolet;
+    text-align: center;
+    justify-content: center;
+    border: 1px solid white;
+    margin: 20px auto;
+    width: 90%; 
+    height: 80vh;
+    margin: 20px auto;
+}
+.border{
+    border: 1px solid white;
+}
+.color{
+    background-color: gray;
+    color: white;
+}
+.letra{
+    color: white;
+}

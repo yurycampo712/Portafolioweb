@@ -1,0 +1,79 @@
+header{
+    background-color: rgb(187, 12, 231);
+    height: 10%;
+    text-align:center;
+    display: flex;
+    border-radius: 8%;
+}
+.portafolio{
+    justify-content: space-evenly;
+    text-align: center;
+    display: flex;
+}
+.item{
+    list-style: none;
+    color: white;
+}
+.frase{
+    color: white;
+    height: 200px;
+    text-align: center;
+    margin: 100px;
+}
+main{
+    background-color:black;
+    margin-block: 0.5%;
+    height: 90vh;
+    display: flex;
+    border-radius: 2%;
+}
+.uno{
+    background-color: white;
+    border-radius: 20%;
+    text-align: center;
+    margin: 15px;
+    height: 300px;
+    margin-left: -485px;
+    width: 500px;
+    margin-top: 250px;
+    margin-right: 50px;
+}
+.dos{
+    background-color: white;
+    border-radius: 20%;
+    text-align: center;
+    margin: 15px;
+    height: 300px;
+    margin-right: 50px;
+    width: 500px;
+    margin-top: 250px;
+}
+.tres{
+    background-color: white;
+    border-radius: 20%;
+    margin: 15px;
+    height: 300px;
+    margin-right: 50px;
+    width: 500px;
+    margin-top: 250px;
+    text-align: center;
+}
+
+.section{
+    border: 2px solid black ;
+}
+.border{
+    border: 1px solid black;
+}
+.colorletra{
+    color: white;
+}
+footer{
+    height: 30px;
+    width: 100%;
+    border-radius: 8px;
+    list-style: none;
+    text-align: center; 
+    background-color:rgb(136, 7, 168) ;
+    
+}
